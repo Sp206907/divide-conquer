@@ -1,0 +1,17 @@
+# Build
+/target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Java
+*.class
+*.log
+
+# Maven wrapper
+/.mvn/
+.mvn/wrapper/maven-wrapper.jar
+
+
