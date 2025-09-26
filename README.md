@@ -64,5 +64,3 @@ A project on classic Divide-and-Conquer algorithms with safe recursion templates
 * Commit history (example): init → feat(metrics) → feat(mergesort) → feat(quicksort) → refactor(util) → feat(select) → feat(closest) → feat(cli) → docs(report) → release: v1.0.
 
 
-## Краткие выводы (заполнить после прогонов)
-- Теория vs замеры: где совпадает, где расходится; причины (кэш, GC, распределения).
